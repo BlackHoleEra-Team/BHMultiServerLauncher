@@ -18,7 +18,9 @@
 
 ### 启动方式
 
+```bash
 java -jar BHMultiServerLauncher.jar servers-config.json
+```
 
 ## 配置文件说明
 
