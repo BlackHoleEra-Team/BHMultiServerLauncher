@@ -150,7 +150,7 @@ public class MultiServerLauncher {
         BufferedReader consoleReader = new BufferedReader(new InputStreamReader(System.in));
 
         try {
-            System.out.println("MultiServerLauncher 已启动 - 输入 'help' 查看帮助");
+            System.out.println("BHMultiServerLauncher 已启动 - 输入 'help' 查看帮助");
 
             String line;
             while (running && (line = consoleReader.readLine()) != null) {
