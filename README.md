@@ -69,7 +69,7 @@ java -jar BHMultiServerLauncher.jar servers-config.json
     },
     {
       "name": "Main-World2",
-      "workingDirectory": "EpicWorld",
+      "workingDirectory": "Main-World2",
       "startCommand": "java -Xmx1750M -jar purpur-1.20.4-2176.jar nogui",
       "autorun": true
     }
