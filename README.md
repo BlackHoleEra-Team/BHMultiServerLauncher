@@ -86,7 +86,7 @@ java -jar BHMultiServerLauncher.jar servers-config.json
 | `send` | `<服务器名称> <命令>` | 向指定服务器发送控制台命令 |
 | `broadcast` | `<命令>` | 向所有服务器发送同一命令 |
 | `status` | `<服务器名称>` | 查看指定服务器的状态信息 |
-| `quit`/`exit` | 无 | 安全退出启动器程序 |
+| `quit`/`exit` | 无 | 安全退出启动器程序(请确保全部服务端均已停止) |
 
 ## 使用示例
 
